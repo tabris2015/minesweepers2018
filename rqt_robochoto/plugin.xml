@@ -1,0 +1,20 @@
+<library path="src">
+  <class name="Minesweeper Map Plugin" type="rqt_robochoto.map_module.MineMapPlugin" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      Un plugin para el mapeo del area de competencia de los Minesweeper 2018
+    </description>
+    <qtgui>
+      <!-- optional grouping...
+      <group>
+        <label>Group</label>
+      </group>
+      <group>
+        <label>Subgroup</label>
+      </group>
+      -->
+      <label>Minesweeper Map Plugin</label>
+      <icon type="theme">system-help</icon>
+      <statustip>Mapa con las minas.</statustip>
+    </qtgui>
+  </class>
+</library>

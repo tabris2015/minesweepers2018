@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/kinetic/include",
+                "/home/pepe/catkin_ws/src/arduinoday/include",
+                "/home/pepe/catkin_ws/src/kindr/include",
+                "/home/pepe/catkin_ws/src/minesweeper/include",
+                "/home/pepe/catkin_ws/src/robocar/include",
+                "/home/pepe/catkin_ws/src/robochoto/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

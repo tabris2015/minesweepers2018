@@ -1,0 +1,20 @@
+<library path="src">
+  <class name="Minesweeper Monitor Plugin" type="rqt_monitor_robochoto.monitor_module.MonitorPlugin" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      Un plugin para el monitoreo del robot para la competencia de los Minesweeper 2018
+    </description>
+    <qtgui>
+      <!-- optional grouping...
+      <group>
+        <label>Group</label>
+      </group>
+      <group>
+        <label>Subgroup</label>
+      </group>
+      -->
+      <label>Minesweeper Monitor Plugin</label>
+      <icon type="theme">system-help</icon>
+      <statustip>Monitor del robot buscaminas.</statustip>
+    </qtgui>
+  </class>
+</library>
